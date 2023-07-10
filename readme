@@ -1,10 +1,1 @@
-Currently deploy in 192.168.10.25 ( MM Production )
-
-2017 01 20
-==========
-redeploy becoz of added error log
-
-
-2017 03 30
-==========
-add TELENOR ELOAD ACCESS (TN1K TO TN51_100K) IN ReportConfig.xml 
+ReportConfig.XML
